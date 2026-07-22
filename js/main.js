@@ -1,6 +1,6 @@
 // Paste the Web app URL from your Google Apps Script deployment here.
 // See google-apps-script.gs for the script and deployment steps.
-var GOOGLE_SHEET_WEBAPP_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+var GOOGLE_SHEET_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyxKm6F-8CYhoCuPNPWCFgZ08dt2QMeElKSUT35rVuEEY3R2m5_BCSG88nU8T38ct7F/exec";
 
 // Mobile nav toggle
 document.addEventListener("DOMContentLoaded", function () {

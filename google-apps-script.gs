@@ -1,6 +1,6 @@
 /**
  * Google Apps Script — bound to the SMS Entertainment contact form sheet.
- * https://docs.google.com/spreadsheets/d/1GwqTS5V7nIay4igAYKG5hmOZ3tyzp7n30Pe4o8ebQsw/edit
+ * https://docs.google.com/spreadsheets/d/1UL1T9ql7vUevs6sl-ES__5PfxX_pRbkDoEZq-oFAMDA/edit
  *
  * Setup:
  * 1. Open the sheet above.
