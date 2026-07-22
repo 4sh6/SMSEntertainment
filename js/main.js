@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var interest = form.querySelector("#interest").value;
       var message = form.querySelector("#message").value.trim();
 
-      if (!name || !email || !message) {
+      if (!name || !email || !phone || !message) {
         return;
       }
 
